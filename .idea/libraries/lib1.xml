@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/c3p0-0.9.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-dbutils-1.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-dbutils-1.6-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/c3p0-oracle-thin-extras-0.9.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-dbutils-1.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-dbutils-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/untitled3_war_exploded/WEB-INF/lib/commons-dbutils-1.6-test-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
